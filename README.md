@@ -1,6 +1,8 @@
 # update hints:
-Update CV -- Google Drive;
-Update Navigation -- _include -> navigation.html;
+## Update CV
+Google Drive;
+## Update Navigation
+_include -> navigation.html;
 
 
 # lorenzocarnevale.com
