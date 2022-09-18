@@ -27,7 +27,8 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 0. <b>X. E. Zhao</b> and B. Hu, "On the first bifurcation point for a free boundary problem modeling a small arterial plaque", Mathematical Methods in the Applied Sciences, 2022. [&nbsp;<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.8087">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2011.01528">arxiv</a>&nbsp;]
 
-0. <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, 2022. [&nbsp;<a href="https://authors.elsevier.com/a/1fK843QI%7EFVt3t">DOI</a>&nbsp;]
+0. <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, 2022. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960077922005239">DOI</a>&nbsp;|
+<a href="https://arxiv.org/abs/2111.01761">arxiv</a>&nbsp;]
 
 
 ## Posters
