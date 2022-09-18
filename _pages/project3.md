@@ -41,7 +41,8 @@ quality of the results.
 
 <b>Presentations</b>
 
-* "Two neural-network-based methods for solving elliptic obstacle problems", AMS Fall Central Sectional Meeting, El Paso, 
+* "Two neural-network-based methods for solving elliptic obstacle problems", AMS Fall Central Sectional Meeting, El Paso, 2022. [[ slides ](https://drive.google.com/file/d/17BML1dKu8kS4yphQsNH0xPHZG0H3EfWL/view?usp=sharing)]
+{: reversed="reversed"}
 
 <b>Posters</b>
 
