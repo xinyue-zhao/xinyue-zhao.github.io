@@ -36,7 +36,12 @@ quality of the results.
 * X. E. Zhao, W. Hao and B. Hu, "Convergence analysis of neural networks for solving a free boundary problem", Computers & Mathematics with Applications, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0898122121001139?casa_token=o-RVbd0DHt0AAAAA:-WRnFnAO1k8AXBPk-2dFYNKJJkQ6fz9To45_M6OhZzpuZ0SmrfUutiIcq5FFkTicF5CvqItvyw">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2011.00315">arxiv</a>&nbsp;]
 
-* X. E. Zhao, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, Accepted.
+* X. E. Zhao, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, 2022. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960077922005239">DOI</a>&nbsp;|
+<a href="https://arxiv.org/abs/2111.01761">arxiv</a>&nbsp;]
+
+<b>Presentations</b>
+
+* "Two neural-network-based methods for solving elliptic obstacle problems", AMS Fall Central Sectional Meeting, El Paso, 
 
 <b>Posters</b>
 
