@@ -15,3 +15,6 @@ My research includes theoretical and numerical analysis for partial differential
 
 
 ### 3. Solving free boundary systems by using neural networks [ <a href="{{site.baseurl}}/project3">Details</a> ]
+
+
+### 4. A nonlinear cell-cell adhesion model [ <a href="{{site.baseurl}}/project4">Details</a> ]
