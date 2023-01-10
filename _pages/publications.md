@@ -35,13 +35,13 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 
 
 ## Posters
-1. <b>X. E. Zhao</b> and B. Hu, "A Free Boundary Tumor Growth Model with a Time Delay in Cell Proliferation". [[ poster ](https://drive.google.com/file/d/150LiQvIaTKNHumH_hkT1VzfNzhzMAI03/view?usp=sharing)]
+* <b>X. E. Zhao</b> and B. Hu, "A Free Boundary Tumor Growth Model with a Time Delay in Cell Proliferation". [[ poster ](https://drive.google.com/file/d/150LiQvIaTKNHumH_hkT1VzfNzhzMAI03/view?usp=sharing)]
 {: reversed="reversed"}
 
-2. <b>X. E. Zhao</b>, W. Hao and B. HU, "Solving a Free Boundary System by Using Neural Networks". [[ poster ](https://drive.google.com/file/d/145iRWgocVOQzJa5CstVUh1dYVMu0rz7L/view?usp=sharing)]
+* <b>X. E. Zhao</b>, W. Hao and B. HU, "Solving a Free Boundary System by Using Neural Networks". [[ poster ](https://drive.google.com/file/d/145iRWgocVOQzJa5CstVUh1dYVMu0rz7L/view?usp=sharing)]
 {: reversed="reversed"}
 
-3. <b>X. E. Zhao</b> and G. Webb, "Bifurcation Analysis of Critical Values forWound Closure Outcomes in Wound Healing Experiments". [[ poster ](https://drive.google.com/file/d/1-zAy2c2-1LoJ6ZnUzD3ktGPXwTQZTTew/view)]
+* <b>X. E. Zhao</b> and G. Webb, "Bifurcation Analysis of Critical Values forWound Closure Outcomes in Wound Healing Experiments". [[ poster ](https://drive.google.com/file/d/1-zAy2c2-1LoJ6ZnUzD3ktGPXwTQZTTew/view)]
 {: reversed="reversed"}
 
 
