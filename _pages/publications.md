@@ -40,6 +40,9 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 0. <b>X. E. Zhao</b>, W. Hao and B. HU, "Solving a Free Boundary System by Using Neural Networks". [[ poster ](https://drive.google.com/file/d/145iRWgocVOQzJa5CstVUh1dYVMu0rz7L/view?usp=sharing)]
 {: reversed="reversed"}
 
+0. <b>X. E. Zhao</b> and G. Webb, "Bifurcation Analysis of Critical Values forWound Closure Outcomes in Wound Healing Experiments". [[ poster ](https://drive.google.com/file/d/1-zAy2c2-1LoJ6ZnUzD3ktGPXwTQZTTew/view)]
+{: reversed="reversed"}
+
 
 
 
