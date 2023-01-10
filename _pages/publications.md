@@ -30,7 +30,8 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 0. <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, 2022. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960077922005239">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2111.01761">arxiv</a>&nbsp;]
 
-0. <b>X. E. Zhao</b>, L. Chen, W. Hao and Y. Zhao, "Bifurcation Analysis Reveals Solution Structures of Phase Field Models", Communications on Applied Mathematics and Computation. [[&nbsp;<a href="https://link.springer.com/article/10.1007/s42967-022-00221-1">DOI</a>&nbsp;|<a href="https://arxiv.org/abs/2210.06691">arxiv</a>&nbsp;]
+0. <b>X. E. Zhao</b>, L. Chen, W. Hao and Y. Zhao, "Bifurcation Analysis Reveals Solution Structures of Phase Field Models", Communications on Applied Mathematics and Computation. [&nbsp;<a href="https://link.springer.com/article/10.1007/s42967-022-00221-1">DOI</a>&nbsp;|
+<a href="https://arxiv.org/abs/2210.06691">arxiv</a>&nbsp;]
 
 
 ## Posters
