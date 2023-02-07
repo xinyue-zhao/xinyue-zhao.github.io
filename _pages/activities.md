@@ -8,8 +8,7 @@ published: true
 #### Call for Papers
 The following calls are open and waiting for your submission.
 
-- [Special Issue of MBE: Numerical and Theoretical Analysis for Partial Differential Equation Models in Biology]
-(https://www.aimspress.com/mbe/article/6396/special-articles)
+- [Paper Submission: February 28, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.aimspress.com/mbe/article/6396/special-articles)
 
 
 #### Conference and Workshop(s) (Co-)Chair
