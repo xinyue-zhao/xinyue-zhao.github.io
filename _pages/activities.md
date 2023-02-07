@@ -13,15 +13,4 @@ The following calls are open and waiting for your submission.
 
 
 #### Conference and Workshop(s) (Co-)Chair
-0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy
-
-0. [DistInSys 2022](https://fcrlab.unime.it/calls/distinsys2022) - "<i>2nd International Workshop on Distributed Intelligent Systems</i>", June 2022, Rhodes, Greece
-
-0. [CCGrid 2022](https://fcrlab.unime.it/ccgrid22) - "<i>22nd IEEE International Symposium on Cluster, Cloud and Internet Computing</i>", May 2022, Taormina, Messina, Italy
-
-0. [AI4Health 2022](https://www.ai4health.icar.cnr.it) - "<i>International Workshop on Artificial Intelligence for Health</i>", May 2022, Taormina, Messina, Italy
-
-0. [MrICHE 2021](https://fcrlab.unime.it/calls/mriche2021) - "<i>1st IEEE International Workshop on Mixed Reality Implications on Cultural Heritage Experience</i>", October 2021, Bari, Italy
-
-0. [DistInSys 2021](https://fcrlab.unime.it/calls/distinsys2021) - "<i>1st International Workshop on Distributed and Intelligent Systems</i>", September 2021, Athens, Greece
-{: reversed="reversed"}
+0. [Shanks 2023]([https://mobicase.eai-conferences.org/2022](https://my.vanderbilt.edu/mathbio/)) - "<i>2023 Shanks Workshop on Advances in Mathematical and Theoretical Biology</i>", March 17 - 19, 2023, Vanderbilt University
