@@ -12,4 +12,4 @@ The following calls are open and waiting for your submission.
 
 
 ## Conference and Workshop(s) (Co-)Chair
-- [Shanks 2023](https://mobicase.eai-conferences.org/2022](https://my.vanderbilt.edu/mathbio/) - "<i>2023 Shanks Workshop on Advances in Mathematical and Theoretical Biology</i>", March 17 - 19, 2023, Vanderbilt University
+-  [Shanks 2023](https://mobicase.eai-conferences.org/2022](https://my.vanderbilt.edu/mathbio/) - "<i>2023 Shanks Workshop on Advances in Mathematical and Theoretical Biology</i>", March 17 - 19, 2023, Vanderbilt University
