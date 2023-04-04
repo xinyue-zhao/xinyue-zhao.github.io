@@ -18,6 +18,9 @@ A nonlinear partial differential equation containing a nonlocal advection term a
 * "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments", JMM, Boston, 2023. [[ slides ](https://drive.google.com/file/d/1H5cg9Hhk_OGfIxlVQOjxA_UwperGpBFe/view?usp=sharing)]
 {: reversed="reversed"}
 
+* "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments", 2023 Shanks Workshop, Nashville, 2023. [[ slides ](https://drive.google.com/file/d/128c-hcgU4zsqcaHXu_jcgEDt-T6PUWSD/view?usp=sharing)]
+{: reversed="reversed"}
+
 <b>Posters</b>
 
 * G. Webb and X. E. Zhao, "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments". [[ poster ](https://drive.google.com/file/d/1-zAy2c2-1LoJ6ZnUzD3ktGPXwTQZTTew/view?usp=sharing)]
