@@ -33,7 +33,7 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 0. <b>X. E. Zhao</b>, L. Chen, W. Hao and Y. Zhao, "Bifurcation Analysis Reveals Solution Structures of Phase Field Models", Communications on Applied Mathematics and Computation. [&nbsp;<a href="https://link.springer.com/article/10.1007/s42967-022-00221-1">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2210.06691">arxiv</a>&nbsp;]
 
-0. G. Webb and X. E. Zhao, "Bifurcation analysis of critical values for wound closure outcomes in wound healing experiments“， Journal of Mathematical Biology. [&nbsp;<a href="https://link.springer.com/article/10.1007/s00285-023-01896-7">DOI</a>&nbsp;]
+0. G. Webb and <b>X. E. Zhao</b>, "Bifurcation analysis of critical values for wound closure outcomes in wound healing experiments“， Journal of Mathematical Biology. [&nbsp;<a href="https://link.springer.com/article/10.1007/s00285-023-01896-7">DOI</a>&nbsp;]
 
 
 ## Posters
