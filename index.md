@@ -9,16 +9,12 @@ published: true
 ---
 
 ## Contact Information
-Office: Stevenson Center 1529
+Office: 243 Ayres Hall
 
-Email: xinyue.zhao (at) vanderbilt.edu
+Email: xzhao45 (at) utk.edu
 
 Web: <a href="http://xinyue-zhao.github.io">http://xinyue-zhao.github.io</a>
 
 
 ## Short Biography
-I received my Ph.D. in Applied Mathematics from the <a href="https://www.nd.edu/">University of Notre Dame</a> under the supervision of Prof. <a href="https://acms.nd.edu/people/bei-hu/">Bei Hu</a>. Prior to that, I received an M.S., a B.S., and a B.Econ from <a href="https://www.ruc.edu.cn/">Renmin University of China</a>.
-
-Currently, I am a Postdoctoral Scholar in the <a href="https://as.vanderbilt.edu/math/">Department of Mathematics</a> at <a href="https://www.vanderbilt.edu/"> Vanderbilt University</a>, working with Prof. <a href="https://my.vanderbilt.edu/glennwebb/">Glenn Webb</a>. My research interests are in mathematical biology and partial differential equations (PDEs), and my recent work involves both theoretical and numerical analysis of various  free boundary problems which have real-world applications such as tumor growth and atherosclerosis.
-
-
+I am an Assistant Professor in the Department of Mathematics at the University of Tennessee, Knoxville. My research interests lie in the field of partial differential equations (PDEs) and applied mathematics. In particular, I am interested in using mathematical tools, both theoretical and numerical, to analyze biological and physical models and discover exciting implications from these models. 
