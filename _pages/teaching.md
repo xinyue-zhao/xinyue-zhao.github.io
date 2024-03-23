@@ -10,7 +10,7 @@ published: true
 
 
 ## Previous Teaching
-<b>Courses taught at Vanderbilt</b>
+<b>Courses taught at UT Knoxville</b>
 * Fall 2023. MATH 151: Math for Life Sciences I
 
 <b>Courses taught at Vanderbilt</b>
