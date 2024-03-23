@@ -6,10 +6,13 @@ published: true
 ---
 
 ## Current Teaching
+* Spring 2024. MATH 405/EEB 406: Models in Biology
 
-* Fall 2023. MATH 151: Math for Life Sciences I
 
 ## Previous Teaching
+<b>Courses taught at Vanderbilt</b>
+* Fall 2023. MATH 151: Math for Life Sciences I
+
 <b>Courses taught at Vanderbilt</b>
 
 * Spring 2023. MATH 2410: Methods of Linear Algebra
