@@ -13,12 +13,15 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 
 
 ## Jounral Papers
-0. G. Webb and <b>X. E. Zhao</b>, "An Epidemic Model with Infection Age and Vaccination Age Structure", Infectious Disease Reports. [&nbsp;<a href="https://www.mdpi.com/2036-7449/16/1/4">DOI</a>&nbsp;]
+0. <b>X. E. Zhao</b> and W. Hao, "Emergence of non-trivial solutions from trivial solutions in reaction-diffusion equations for
+pattern formation", Mathematical Biosciences, 2024. [&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0025556424000828">DOI</a>&nbsp;]
 
-0. G. Webb and <b>X. E. Zhao</b>, "Bifurcation analysis of critical values for wound closure outcomes in wound healing experiments“， Journal of Mathematical Biology. [&nbsp;<a href="https://link.springer.com/article/10.1007/s00285-023-01896-7">DOI</a>&nbsp;]
+0. G. Webb and <b>X. E. Zhao</b>, "An epidemic model with infection age and vaccination age structure", Infectious Disease Reports, 2024. [&nbsp;<a href="https://www.mdpi.com/2036-7449/16/1/4">DOI</a>&nbsp;]
 
-0. <b>X. E. Zhao</b>, L. Chen, W. Hao and Y. Zhao, "Bifurcation Analysis Reveals Solution Structures of Phase Field Models", Communications on Applied Mathematics and Computation. [&nbsp;<a href="https://link.springer.com/article/10.1007/s42967-022-00221-1">DOI</a>&nbsp;|
+0. <b>X. E. Zhao</b>, L. Chen, W. Hao and Y. Zhao, "Bifurcation analysis reveals solution structures of phase field models", Communications on Applied Mathematics and Computation, 2024. [&nbsp;<a href="https://link.springer.com/article/10.1007/s42967-022-00221-1">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2210.06691">arxiv</a>&nbsp;]
+
+0. G. Webb and <b>X. E. Zhao</b>, "Bifurcation analysis of critical values for wound closure outcomes in wound healing experiments“， Journal of Mathematical Biology, 2023. [&nbsp;<a href="https://link.springer.com/article/10.1007/s00285-023-01896-7">DOI</a>&nbsp;]
 
 0. <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, 2022. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960077922005239">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2111.01761">arxiv</a>&nbsp;]
