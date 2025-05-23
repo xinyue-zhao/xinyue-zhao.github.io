@@ -6,10 +6,14 @@ published: true
 ---
 
 ## Current Teaching
-* Fall 2024. MATH 581: Mathematical Ecology I
+* TBD
 
 ## Previous Teaching
 <b>Courses taught at UT Knoxville</b>
+* Spring 2025. MATH 251: Matrix Algebra
+
+* Fall 2024. MATH 581: Mathematical Ecology I
+
 * Spring 2024. MATH 405/EEB 406: Models in Biology
 
 * Fall 2023. MATH 151: Math for Life Sciences I
