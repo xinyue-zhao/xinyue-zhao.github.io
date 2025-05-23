@@ -18,3 +18,5 @@ My research includes theoretical and numerical analysis for partial differential
 
 
 ### 4. A nonlinear cell-cell adhesion model [ <a href="{{site.baseurl}}/project4">Details</a> ]
+
+### 5. Optimal control of free boundary tumor growth model [ <a href="{{site.baseurl}}/project5">Details</a> ]
