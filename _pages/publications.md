@@ -13,6 +13,10 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 
 
 ## Jounral Papers
+0. <b>X. E. Zhao</b>, Y. Wu, R. Leander, W. Ding and S. Lenhart, Optimal control of treatment in a free boundary problem modeling multilayered tumor growth, 2024. [&nbsp;<a href="https://arxiv.org/abs/2410.14114">arXiv</a>&nbsp;]
+
+0. Y. Wu, <b>X. E. Zhao</b>, R. Leander and W. Ding, Optimal control for a free boundary tumor growth model, 2024. [&nbsp;<a href="http://dx.doi.org/10.2139/ssrn.4951382">SSRN</a>&nbsp;]
+
 0. <b>X. E. Zhao</b>, Analysis and optimization of tumor inhibitor treatments in a free boundary tumor growth model, Nonlinear Analysis: Real World Applications, 2025. [&nbsp;<a href="https://authors.elsevier.com/a/1l7LJ5Dp%7E-tRtU">DOI</a>&nbsp;]
 
 0. <b>X. E. Zhao</b> and J. Shi, On determination of the bifurcation type for a free boundary problem modeling tumor growth, Journal of Differential Equations, 2025. [&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0022039625003791">DOI</a>&nbsp;|
