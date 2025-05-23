@@ -15,7 +15,7 @@ A new PDE model is proposed for non-radially symmetric tumor growth with a time 
 <b>Journal papers</b>
 
 * X. E. Zhao and B. Hu, The impact of time delay in a tumor model, Nonlinear Analysis: Real World Applications, 2020. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121818312732">DOI</a>&nbsp;|&nbsp; 
-<a href="https://arxiv.org/abs/1907.01148">arxiv</a>&nbsp;]
+<a href="https://arxiv.org/abs/1907.01148">arXiv</a>&nbsp;]
 
 * X. E. Zhao and B. Hu, Symmetry-breaking bifurcation for a free-boundary tumor model with time delay, Journal of Differential Equations, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022039620300280">DOI</a>&nbsp;]
 
