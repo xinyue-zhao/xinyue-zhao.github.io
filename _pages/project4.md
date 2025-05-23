@@ -15,26 +15,26 @@ A nonlinear partial differential equation containing a nonlocal advection term a
 
 <b>Journal papers</b>
 
-* G. Webb and <b>X. E. Zhao</b>, "Bifurcation analysis of critical values for wound closure outcomes in wound healing experiments“， Journal of Mathematical Biology. [&nbsp;<a href="https://link.springer.com/article/10.1007/s00285-023-01896-7">DOI</a>&nbsp;]
+* G. Webb and <b>X. E. Zhao</b>, Bifurcation analysis of critical values for wound closure outcomes in wound healing experiments， Journal of Mathematical Biology. [&nbsp;<a href="https://link.springer.com/article/10.1007/s00285-023-01896-7">DOI</a>&nbsp;]
 
 
 <b>Presentations</b>
 
-* "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments", ICMA-VIII, Lafayette, 2022. [[ slides ](https://drive.google.com/file/d/1e-fTuXtvOZsT7SisbGjAoZpe8rwUTi0t/view?usp=sharing)]
+* Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments, ICMA-VIII, Lafayette, 2022. [[ slides ](https://drive.google.com/file/d/1e-fTuXtvOZsT7SisbGjAoZpe8rwUTi0t/view?usp=sharing)]
 {: reversed="reversed"}
 
-* "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments", JMM, Boston, 2023. [[ slides ](https://drive.google.com/file/d/1H5cg9Hhk_OGfIxlVQOjxA_UwperGpBFe/view?usp=sharing)]
+* Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments, JMM, Boston, 2023. [[ slides ](https://drive.google.com/file/d/1H5cg9Hhk_OGfIxlVQOjxA_UwperGpBFe/view?usp=sharing)]
 {: reversed="reversed"}
 
-* "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments", 2023 Shanks Workshop, Nashville, 2023. [[ slides ](https://drive.google.com/file/d/128c-hcgU4zsqcaHXu_jcgEDt-T6PUWSD/view?usp=sharing)]
+* Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments, 2023 Shanks Workshop, Nashville, 2023. [[ slides ](https://drive.google.com/file/d/128c-hcgU4zsqcaHXu_jcgEDt-T6PUWSD/view?usp=sharing)]
 {: reversed="reversed"}
 
-* "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments", DSLS 2023, Columbus, 2023. [[ slides ](https://drive.google.com/file/d/154_0s034ueaKO6uGgrJa8bklOFy1UoLR/view?usp=sharing)]
+* Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments, DSLS 2023, Columbus, 2023. [[ slides ](https://drive.google.com/file/d/154_0s034ueaKO6uGgrJa8bklOFy1UoLR/view?usp=sharing)]
 {: reversed="reversed"}
 
 <b>Posters</b>
 
-* G. Webb and X. E. Zhao, "Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments". [[ poster ](https://drive.google.com/file/d/1-zAy2c2-1LoJ6ZnUzD3ktGPXwTQZTTew/view?usp=sharing)]
+* G. Webb and X. E. Zhao, Bifurcation Analysis of Critical Values for Wound Closure Outcomes in Wound Healing Experiments. [[ poster ](https://drive.google.com/file/d/1-zAy2c2-1LoJ6ZnUzD3ktGPXwTQZTTew/view?usp=sharing)]
 {: reversed="reversed"}
 
 [<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
