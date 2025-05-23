@@ -13,6 +13,8 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 
 
 ## Jounral Papers
+0. <b>X. E. Zhao</b> and J. Shi, "On determination of the bifurcation type for a free boundary problem modeling tumor growth", Journal of Differential Equations, 2025. [&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0022039625003791?casa_token=TAi6YXNYA4wAAAAA:tv5AIcM7IgiFx_eQtx-fEmyWeQHxKghjbzQ2yv-lhOjJYOQ4f61HaQrhcGCuludHbmADa5ehGA">DOI</a>&nbsp;]
+
 0. <b>X. E. Zhao</b> and W. Hao, "Emergence of non-trivial solutions from trivial solutions in reaction-diffusion equations for
 pattern formation", Mathematical Biosciences, 2024. [&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0025556424000828">DOI</a>&nbsp;]
 
