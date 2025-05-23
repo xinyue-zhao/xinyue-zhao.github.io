@@ -21,7 +21,7 @@ A new PDE model is proposed for non-radially symmetric tumor growth with a time 
 
 <b>Posters</b>
 
-* X. E. Zhao and B. Hu, A Free Boundary Tumor Growth Model with a Time Delay in Cell Proliferation. [&nbsp;[poster]&nbsp;(https://drive.google.com/file/d/150LiQvIaTKNHumH_hkT1VzfNzhzMAI03/view?usp=sharing)]
+* X. E. Zhao and B. Hu, A Free Boundary Tumor Growth Model with a Time Delay in Cell Proliferation. [[poster](https://drive.google.com/file/d/150LiQvIaTKNHumH_hkT1VzfNzhzMAI03/view?usp=sharing)]
 {: reversed="reversed"}
 
 [<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
