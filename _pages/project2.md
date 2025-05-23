@@ -13,15 +13,15 @@ We studied the bifurcation for a highly nonlinear and highly coupled <i>free bou
 
 <b>Journal papers</b>
 
-* X. E. Zhao and B. Hu, Bifurcation for a free boundary problem modeling a small arterial plaque, Journal of Differential Equations, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S002203962100231X">DOI</a>&nbsp;|
+* X. E. Zhao and B. Hu, Bifurcation for a free boundary problem modeling a small arterial plaque, Journal of Differential Equations, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S002203962100231X">DOI</a>&nbsp;|&nbsp;
 <a href="https://arxiv.org/abs/2008.02407">arxiv</a>&nbsp;]
 
-* X. E. Zhao and B. Hu, On the first bifurcation point for a free boundary problem modeling a small arterial plaque, Mathematical Methods in the Applied Sciences, 2022. [&nbsp;<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.8087">DOI</a>&nbsp;|
+* X. E. Zhao and B. Hu, On the first bifurcation point for a free boundary problem modeling a small arterial plaque, Mathematical Methods in the Applied Sciences, 2022. [&nbsp;<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.8087">DOI</a>&nbsp;|&nbsp;
 <a href="https://arxiv.org/abs/2011.01528">arxiv</a>&nbsp;]
 
 <b> Presentations</b>
 
-* Bifurcation Analysis in a Free Boundary Model for Early Atherosclerotic Plaque Development, BIRS Workshop on BIRS Workshop, 2024 [[ slides ](https://drive.google.com/file/d/1q8c4v_vrSlzlDDSfBe8PlzzxixHPtWnh/view?usp=sharing)|<a href="https://www.birs.ca/events/2024/5-day-workshops/24w5209/videos/watch/202410071532-Zhao.html">video</a>&nbsp;]
+* Bifurcation Analysis in a Free Boundary Model for Early Atherosclerotic Plaque Development, BIRS Workshop on BIRS Workshop, 2024 [&nbsp;[slides](https://drive.google.com/file/d/1q8c4v_vrSlzlDDSfBe8PlzzxixHPtWnh/view?usp=sharing)&nbsp;|&nbsp;<a href="https://www.birs.ca/events/2024/5-day-workshops/24w5209/videos/watch/202410071532-Zhao.html">video</a>&nbsp;]
 {: reversed="reversed"}
 
 [<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
