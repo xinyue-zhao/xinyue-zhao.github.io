@@ -21,7 +21,7 @@ We studied the bifurcation for a highly nonlinear and highly coupled <i>free bou
 
 <b> Presentations</b>
 
-* Bifurcation Analysis in a Free Boundary Model for Early Atherosclerotic Plaque Development, BIRS Workshop on BIRS Workshop, 2024 [<a href="https://drive.google.com/file/d/1q8c4v_vrSlzlDDSfBe8PlzzxixHPtWnh/view?usp=sharing">slides</a> |
-    <a href="https://www.birs.ca/events/2024/5-day-workshops/24w5209/videos/watch/202410071532-Zhao.html">video</a>]
+* Bifurcation Analysis in a Free Boundary Model for Early Atherosclerotic Plaque Development, BIRS Workshop on BIRS Workshop, 2024 [&nbsp;<a href="https://drive.google.com/file/d/1q8c4v_vrSlzlDDSfBe8PlzzxixHPtWnh/view?usp=sharing">slides</a> |
+    <a href="https://www.birs.ca/events/2024/5-day-workshops/24w5209/videos/watch/202410071532-Zhao.html">video</a>&nbsp;]
 
 [<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
