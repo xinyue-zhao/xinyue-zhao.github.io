@@ -7,7 +7,7 @@ published: true
 
 ## Editorial Board
 
-- [Guest Editor, Special Issue on Numerical and Theoretical Analysis for Partial Differential Equation Models in Biology,
+- Guest Editor, [Special Issue on Numerical and Theoretical Analysis for Partial Differential Equation Models in Biology,
 Mathematical Biosciences and Engineering](https://www.aimspress.com/mbe/article/6396/special-articles)
 
 
