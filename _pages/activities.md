@@ -5,7 +5,7 @@ permalink: /activities/
 published: true
 ---
 ## Math Bio Seminar at UTK
-[ <a href="{{site.baseurl}}/2025FallSeminar">2025 Fall Schedule</a> ]
+<a href="{{site.baseurl}}/2025FallSeminar">2025 Fall Schedule</a>
 
 ## Editorial Board
 
