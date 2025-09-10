@@ -4,8 +4,10 @@ layout: default
 permalink: /2025FallSeminar/
 published: true
 ---
+## Math Bio Seminar 2025 Fall Schedule
+We meet on Wednesdays from 3:00 to 3:50 PM (EST) in Ayres 122.
 
-## Sept 10
+# Sept 10
 Speaker: Xiang-Sheng Wang (University of Louisiana at Lafayette)
 
 Title: Numerical Optimal Control of Metastatic Cancer Treatment Models
