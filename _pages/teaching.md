@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Current Teaching
-* TBD
+* Fall 2025. MATH 241: Calculus III
 
 ## Previous Teaching
 <b>Courses taught at UT Knoxville</b>
