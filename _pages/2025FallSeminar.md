@@ -1,5 +1,5 @@
 ---
-title: '2025FallSeminar'
+title: '2025Fall Math Bio Seminar Schedule'
 layout: default
 permalink: /2025FallSeminar/
 published: true
