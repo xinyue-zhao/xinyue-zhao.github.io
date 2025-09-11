@@ -17,9 +17,9 @@ Abstract: We propose a unified size-structured PDE model for metastatic tumor gr
 ## Sept 17
 Speaker: Fanze Kong (University of Washington)
 
-Title: TBD
+Title: Global well-posedness and concentrated steady states in chemotaxis-fluid models
 
-Abstract: TBD
+Abstract: Chemotaxis is a process by which bacteria direct their movement in response to chemical stimulus gradients.  To describe this phenomenon, E. Keller and L. Segel in the 1970s proposed a class of strongly coupled parabolic PDEs, now known as Keller-Segel (KS) models. Due to their relatively simple structures yet rich dynamical behaviors, KS systems have attracted extensive attention, with numerous studies devoted to the qualitative properties of the solutions, including global well-posedness, singularity formation, etc. In this talk, we focus on a class of Keller–Segel–Navier–Stokes (KS-NS) systems, which serve as a paradigm for modeling the chemotactic movement of bacteria in a viscous fluid.  Under the assumption of small cellular initial mass, we establish the existence of global-in-time solutions to the two-dimensional KS–NS system by employing the entropy–dissipation method.   Moreover, we construct spot steady states at the critical mass threshold for the cellular density using the inner–outer gluing approach.
 
 ## Sept 24
 Speaker: John McAlister (University of Tennessee, Knoxville)
