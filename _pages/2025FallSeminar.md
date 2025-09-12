@@ -35,6 +35,13 @@ Title: TBD
 
 Abstract: TBD
 
+## Oct 15
+Speaker: Amber Young (University of Tennessee, Knoxville)
+
+Title: TBD
+
+Abstract: TBD
+
 ## Nov 19
 Speaker: Andy Bernoff (Harvey Mudd College)
 
