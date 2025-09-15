@@ -45,7 +45,9 @@ Abstract: TBD
 ## Nov 19
 Speaker: Andy Bernoff (Harvey Mudd College)
 
-Title: TBD
+Title: Agent-Based and Continuous Models of Locust Hopper Bands
 
-Abstract: TBD
+Abstract: An outstanding challenge in mathematical biology is using laboratory and/or field observations to tune a model’s functional form and parameter values. These problems lie at the intersection of dynamical systems and data science. In this talk I will discuss an ongoing project developing models of the Australian plague locust for which excellent field data is available. Under favorable environmental conditions flightless juveniles aggregate into coherent, aligned swarms referred to as hopper bands. We develop two models of hopper bands in tandem; an agent-based model that tracks the position of individuals and a continuum model describing locust density. By examining 4.4 million parameter combinations, we identify a set of parameters that reproduce field observations.
+
+I will then discuss ongoing efforts to improve these models. The first extends this work by modeling locust alignment via the Kuramoto model of oscillator synchronization. The second uses motion tracking of tens of thousands of locusts to shed light on how locust movement is influenced by social interactions. Finally, we reflect on how recent lab work is revolutionizing our understanding of locust visual perception and navigation, spawning a new class of agent-based models.
 
