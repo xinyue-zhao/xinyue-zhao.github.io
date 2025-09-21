@@ -24,9 +24,9 @@ Abstract: Chemotaxis is a process by which bacteria direct their movement in res
 ## Sept 24
 Speaker: John McAlister (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: Replicator Dynamics with Spatial Structure for Evolutionary Games
 
-Abstract: TBD
+Abstract: The replicator equation has been widely used as a fundamental model in evolutionary game theory. However, the model requires the assumption that populations are arbitrarily large and well mixed, so using the replicator equation to describe dynamics of games with explicit relational structure has been impossible. Here I present a reshaping of the replicator equation model for use in high structure multiplayer games through the use of mixed strategies and show that the resulting system satisfies the folk theorem of Evolutionary Game Theory: (a) Every stable equilibrium is a Nash equilibrium, (b) convergent trajectories converge to Nash equilibria, and (c) Strict Nash equilibria are locally asymptotically stable. Having shown this, I examine the coordination game in particular and classify, in part, the system dynamics in neighborhoods of different types of Nash equilibria and discuss how these continuous dynamics give us insights into the classical game.  
 
 ## Oct 8
 Speaker: Leili Shahriyari (University of Massachusetts, Amherst)
