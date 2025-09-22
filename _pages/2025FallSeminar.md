@@ -42,6 +42,13 @@ Title: TBD
 
 Abstract: TBD
 
+## Nov 12
+Speaker: Madison Pratt (University of Tennessee, Knoxville)
+
+Title: TBD
+
+Abstract: TBD
+
 ## Nov 19
 Speaker: Andy Bernoff (Harvey Mudd College)
 
