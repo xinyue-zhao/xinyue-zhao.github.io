@@ -31,9 +31,9 @@ Abstract: The replicator equation has been widely used as a fundamental model in
 ## Oct 8
 Speaker: Leili Shahriyari (University of Massachusetts, Amherst)
 
-Title: TBD
+Title: Data Driven QSP Modeling of Cancer: A Step Toward Personalized Treatment
 
-Abstract: TBD
+Abstract: Our goal is to create personalized computational models of cancer to better understand how an individual’s disease progresses. By simulating the unique characteristics of each tumor and its response to treatment, we aim to provide insights that support personalized cancer care. To achieve this, we combine mechanistic modeling with machine learning techniques to generate individualized predictions. A central element of our approach is a mechanistic model based on quantitative systems pharmacology (QSP), a computational method used to analyze drug interactions and effects. Our QSP model incorporates a large system of nonlinear equations that represent both biochemical and biomechanical processes within tumors. One common challenge in QSP is parameter estimation, as traditional models often assume uniformity across patients. This assumption can limit accuracy when calibrating models with diverse patient data. To address this, we present a computational framework that focuses on individual patient data for parameter estimation, tailoring QSP model parameters to reflect each person’s unique tumor biology. We conduct sensitivity analyses and uncertainty quantification to identify critical interactions and define prediction ranges. By integrating this patient-specific QSP framework with insights into cellular and molecular interactions, we aim to better predict cancer progression and treatment response. While we recognize the challenges and complexities of this work, we are optimistic about its potential to advance personalized cancer therapy.
 
 ## Oct 15
 Speaker: Amber Young (University of Tennessee, Knoxville)
