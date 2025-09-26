@@ -42,6 +42,13 @@ Title: TBD
 
 Abstract: TBD
 
+## Oct 29
+Speaker: Elisha Brooks (University of Tennessee, Knoxville)
+
+Title: TBD
+
+Abstract: TBD
+
 ## Nov 5
 Speaker: Kennedi Hambrick (University of Tennessee, Knoxville)
 
