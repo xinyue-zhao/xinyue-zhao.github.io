@@ -38,9 +38,9 @@ Abstract: Our goal is to create personalized computational models of cancer to b
 ## Oct 15
 Speaker: Amber Young (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: Modeling La Crosse Virus in North Carolina and Tennessee: Mosquito Activity and Human Infection
 
-Abstract: TBD
+Abstract: La Crosse Virus (LACV) is a mosquito-borne disease that is spread via the bite of an infected \textit{Aedes} mosquito, with most reported cases occurring in individuals under 20 years old. Individuals with LACV may also develop La Crosse Encephalitis, but most cases are asymptomatic and go unreported. In recent years, counties in North Carolina and Tennessee have been identified as hotspots for the virus. Humans serve as dead-end hosts and therefore do not play a role in LACV transmission. Using a system of ordinary differential equations, we developed the first model that accounts for inter- and intra-year variability of LACV transmission in mosquito and human populations in western North Carolina and eastern Tennessee. Environmental effects on mosquito populations were incorporated through non-decreasing, time-varying functional forms of precipitation and temperature. Human demographics were parameterized using population data, while yearly case data and past seroprevalence studies were used to estimate human transmission rates.
 
 ## Oct 29
 Speaker: Elisha Brooks (University of Tennessee, Knoxville)
