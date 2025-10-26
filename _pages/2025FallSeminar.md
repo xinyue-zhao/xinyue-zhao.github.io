@@ -45,9 +45,11 @@ Abstract: La Crosse Virus (LACV) is a mosquito-borne disease that is spread via 
 ## Oct 29
 Speaker: Elisha Brooks (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: Quantifying Mortality Risk: A decision-theoretic framework for county-level risk in opioid mortality
 
-Abstract: TBD
+Abstract: Understanding and mitigating county-level disparities in opioid overdose mortality requires both accurate prediction of mortality rates and a reliable identification of where those predictions fail. In this study, we present a decision-theoretic framework for empirical risk quantification that measures the stability and predictability of opioid mortality across US counties from 2010-2022.
+
+We utilize this risk quantification to identify counties that are structurally volatile: places where social, economic, or infrastructural factors cause mortality dynamics to diverge from model expectations. We integrate this with the CDC Social Vulnerability Index and USDA urbanicity classification to characterize the socioeconomic profiles of high risk counties. This provides a principled way to identify underlying factors that might be contributing to these volatilities, offering policy-makers a data-driven foundation for more informed intervention strategies.
 
 ## Nov 5
 Speaker: Kennedi Hambrick (University of Tennessee, Knoxville)
