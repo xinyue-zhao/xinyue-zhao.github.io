@@ -54,9 +54,10 @@ We utilize this risk quantification to identify counties that are structurally v
 ## Nov 5
 Speaker: Kennedi Hambrick (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: Fitting dynamic models to lab time course data, a case study with Microcystis aeruginosa and their viruses
 
-Abstract: TBD
+Abstract: Cyanobacterial harmful algal blooms (cHABs) frequently occur in freshwater systems and the accompanying toxin production causes significant commercial and economic impact. The cyanobacterium Microcystis aeruginosa has been characterized as a large contributor to these cHABs; however, less well characterized are the host-phage dynamics that occur in these blooms. To address this knowledge gap, we explored how Microcystis aeruginosa NIES-298 pre-acclimation to different temperature conditions influenced sensitivity to subsequent infection by the bacteriophage Ma-LMM01. Using lab generated time course data, we developed a set of mathematical models to investigate the key parameters driving these temperature associated host-phage dynamics. We found that a simple lytic population model could not sufficiently capture the dynamics of the experimental data while a resistant subpopulation model produced more consistent predictions. Additionally, consistent with our experimental data the resistant subpopulation model suggests temperature influences the Microcystis-phage relationship with low temperature acclimated host subpopulations showing substantially more resistance to phage than the high temperature acclimated host subpopulation.
+
 
 ## Nov 12
 Speaker: Madison Pratt (University of Tennessee, Knoxville)
