@@ -62,9 +62,11 @@ Abstract: Cyanobacterial harmful algal blooms (cHABs) frequently occur in freshw
 ## Nov 12
 Speaker: Madison Pratt (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: Improving Model Predictions: ALFFI for In-Depth Uncertainty Analysis in SIR Parameter Estimation
 
-Abstract: TBD
+Abstract: Dynamic epidemiological models, such as the foundational Susceptible-Infected-Recovered (SIR) differential equation model, face significant challenges in parameter estimation due to intractable likelihood functions, which complicate the process of accurately fitting the model to data. Traditional methods, like least squares, can yield parameter estimates that are biologically implausible and poorly characterize uncertainty, leading to overconfidence in predictions. 
+
+To address this, recent advancements in neural network-based methods, such as LF2I and ALFFI, provide more reliable uncertainty estimates and confidence sets, even when the likelihood function is intractable. We present preliminary results utilizing ALFFI to estimate uncertainty in model parameters and investigate how this uncertainty might influence model outputs. We explore how varying parameters within the uncertainty bounds derived from ALFFI could potentially affect key epidemic predictions. These results will be compared to those obtained from traditional parameter estimation methods, with the aim of highlighting how ALFFI may offer more robust uncertainty quantification and provide a better understanding of the variability in model predictions.
 
 ## Nov 19
 Speaker: Andy Bernoff (Harvey Mudd College)
