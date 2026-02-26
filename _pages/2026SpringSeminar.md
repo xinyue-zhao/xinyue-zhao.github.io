@@ -28,9 +28,11 @@ Numerical simulations of both models will be presented as well.
 ## March 4
 Speaker: Ryan Campbell (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: Extending Intermittent Search Strategy and a Stochastic Network Analysis of an Opioid Use Disorder Model
 
-Abstract: TBD
+Abstract: The ability to successfully forage for food or prey is essential to many species. While Lévy flights have drawn interest in the past for modeling this process, intermittent search strategies may provide a better explanation. This process can be described by a system of differential equations that include both a detection, diffusive phase and an advection, ballistic phase. By analyzing these equations, we can determine the average time it takes for the searcher to find its target throughout a variety of scenarios, and often, we can also determine the optimal switching rate between each phase. In the first part of this talk, we will present results for two biologically relevant extensions on the original intermittent search strategy formulations geared towards searches in fluid-dominated environments.
+ 
+Opioid-related mortality has steadily been increasing for the past three decades, with the U.S. Department of Health and Human Sciences maintaining a nationwide public health emergency since 2017.  In the hopes of formulating intervention strategies, many mathematicians have modeled this epidemic, including Kimberlyn Eversman who developed a community/population compartmental model to understand how a specific subcommunity could be affected by the crisis.  In the second part of this talk, we will present a stochastic model that uses Eversman’s model to understand how population dynamics can affect an individual within the network.
 
 ## March 18 
 Speaker: Bhargav Ram Karamched (Florida State University)
