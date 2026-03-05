@@ -37,9 +37,9 @@ Opioid-related mortality has steadily been increasing for the past three decades
 ## March 18 
 Speaker: Bhargav Ram Karamched (Florida State University)
 
-Title: TBD
+Title: Foraging for Food and Competing with Neighbors: A Model's Perspective of the World of Ants
 
-Abstract: TBD
+Abstract: Collective behavior and self-organization are fascinating phenomena observed in a number of species. A fascinating example is that of ant foraging and trail formation, which emerges from indirect, chemical sensing that drives ant behavior. While basic tenets of ant foraging have been identified, several factors still remain unexplained. Most models show how a colony of ants forms a single trail to a single localized food source. However, ants develop simultaneous trails to multiple food sources. In this talk, I will discuss two features of trail formation. First, we develop a stochastic lattice model that describes the emergence of multiple trails to multiple food sources. We derive a macroscopic PDE that is amenable to analysis and coincides with the results of the stochastic model. Linear stability analysis demonstrates the stability of trail formation absorbing outcomes. In the second part of the talk, I will discuss how trail formation is affected by competing species from the perspective of a symmetry-breaking mechanism. We show that winning a competition is divided into two subphases: (1) a colony must find the food first and (2) a colony must repel away (intimidate) other colony ants to hold on to the food. We derive a scaling law that describes the conditions for victory in a competition.
 
 ## March 25 
 Speaker: David Garber (University of Tennessee, Knoxville)
