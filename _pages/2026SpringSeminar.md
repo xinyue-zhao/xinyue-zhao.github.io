@@ -62,3 +62,10 @@ Title: TBD
 
 Abstract: TBD
 
+## April 29
+Speaker: Necibe Tuncer (Florida Atlantic University)
+
+Title: TBD
+
+Abstract: TBD
+
