@@ -44,9 +44,9 @@ Abstract: Collective behavior and self-organization are fascinating phenomena ob
 ## April 1
 Speaker: Maruf Lawal (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: An Optimal Control Framework for Multi-Species Harvesting in the Southern Black Sea
 
-Abstract: TBD
+Abstract: The management of marine fisheries requires balancing ecological sustainability with economic profitability, particularly in ecosystems vulnerable to overexploitation. This study develops a multi-species optimal control modeling framework for the southern Black Sea, focusing on three key species: horse mackerel (Trachurus mediterraneus) as prey, and bluefish (Pomatomus saltatrix) and Atlantic bonito (Sarda sarda) as non-competing predators. The model is formulated as a system of ordinary differential equations with seasonal harvesting restrictions, where the objective functional maximizes discounted net profit. Numerical simulations based on 2008--2022 landing data reveal that the optimal control strategy yields approximately 46% higher discounted net profit than the constant-harvest baseline while preserving positive and stable population trajectories across all species. An approximate, seasonally averaged control strategy performs comparably, providing a practical and implementable alternative for data-limited fisheries. These findings underscore that moderate, time-varying exploitation of interacting stocks can improve economic performance while maintaining viable population dynamics within the model framework.
 
 ## April 15
 Speaker: Jackson Page-Roth (University of Tennessee, Knoxville)
@@ -54,6 +54,15 @@ Speaker: Jackson Page-Roth (University of Tennessee, Knoxville)
 Title: TBD
 
 Abstract: TBD
+
+
+## April 28
+Speaker: Ari Freedman (University of Vermont)
+
+Title: TBD
+
+Abstract: TBD
+
 
 ## April 29
 Speaker: Necibe Tuncer (Florida Atlantic University)
