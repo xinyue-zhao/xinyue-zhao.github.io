@@ -51,9 +51,9 @@ Abstract: The management of marine fisheries requires balancing ecological susta
 ## April 15
 Speaker: Jackson Page-Roth (University of Tennessee, Knoxville)
 
-Title: TBD
+Title: Jekyll & Hyde: modeling how bacteria alter pathogenicity during algal blooms
 
-Abstract: TBD
+Abstract: Phytoplankton are central to the global ocean carbon cycle. Their role in marine organic matter cycling has been extensively studied and incorporated into ecosystem models. However, influences of heterotrophic bacteria on elemental flows remain underrepresented in models. Emiliania huxleyi is a bloom-forming, calcifying microalga that exudes dimethylsulfoniopropionate (DMSP) and plays a key role in global sulfur and carbon cycling. E. huxleyi blooms are believed to be moderated by Sulfitobacter D7, a Roseobacter strain, whose pathogenicity toward E. huxleyi is induced by DMSP concentration. As a step toward representing bacterial pathogenicity in marine ecosystem models, we developed a mathematical model of population dynamics using a series of ordinary differential equations (ODEs) to describe the interactions between E. huxleyi and D7. We present a system of equations that capture dynamics of live cell counts, SYTOX stained dead cells, and measured DMSP concentration from E. huxleyi and D7 co-culture growth experiments. Initially, E. huxleyi grows in co-culture similarly to pure culture, but as it enters stationary phase, the population collapses. We struggled to fit both the E. huxleyi and D7 growth curves in co-culture, as an increased abundance of D7 resulted in a premature decline in E. huxleyi population. We solved this by modulating pathogenicity as a function of estimated DMSP concentration in solution, which delayed E. huxleyi death and dramatically increased model accuracy. Additionally, we found that by using separate parameters for natural E. huxleyi death and D7-induced death, we could incorporate SYTOX stained cells into the model. This model provides a framework for modeling metabolite-initiated pathogenicity in microbial interactions. On larger scales, this framework could be incorporated into ecosystem models to characterize impacts of pathogenic bacteria on algal blooms and their demise.
 
 
 ## April 28
