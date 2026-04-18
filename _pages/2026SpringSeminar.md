@@ -67,7 +67,7 @@ Abstract: TBD
 ## April 29
 Speaker: Necibe Tuncer (Florida Atlantic University)
 
-Title: TBD
+Title: From Bird Viremia to Bird Surveillance: Identifiability in a Multiscale Vector-Borne Model of Usutu Virus Infection
 
-Abstract: TBD
+Abstract: Usutu virus is an emerging mosquito-borne flavivirus, maintained through an enzootic cycle involving wild birds and mosquitoes, with occasional spillover to humans. Understanding how interactions across these biological scales shape transmission dynamics is essential for predicting outbreaks and improving surveillance strategies. In this study, we developed a multiscale vector-borne model of Usutu virus infection that links within-host viral kinetics in birds, the per-bite probability of mosquito infection, and population-level mosquito–bird transmission dynamics. Model parameters were validated using two laboratory datasets collected under an optimally designed experimental framework and one surveillance dataset from wild bird populations. We developed new structural and practical identifiability methods and used them to evaluate parameter robustness under varying levels of measurement noise. We found that simultaneous multiscale fitting to integrated datasets improved parameter identifiability and robustness. These results highlight the importance of combining microscale and macroscale data to enhance the predictive reliability of vector-borne disease models and demonstrate the broader utility of multiscale modeling frameworks for understanding the transmission dynamics of emerging viruses.
 
