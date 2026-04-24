@@ -59,9 +59,9 @@ Abstract: Phytoplankton are central to the global ocean carbon cycle. Their role
 ## April 28
 Speaker: Ari Freedman (University of Vermont)
 
-Title: TBD
+Title: Modeling and measuring the effects of policies to regulate infectious disease transmission and human behavior
 
-Abstract: TBD
+Abstract: Humans have employed a wide variety of policies to control infectious disease epidemics, targeting not just different aspects of the pathogen transmission cycle but also different aspects of human behavior. For example, vaccination is an important pharmaceutical intervention, but also crucial are public messaging campaigns and global vaccine-sharing infrastructure to ensure that vaccines are widely adopted. I will cover some modeling and statistical efforts I have lead to uncover the effects of various aspects of vaccination policy. Next, I will share work ongoing work aimed at developing general epidemiological models to address the rest of the broad space of infectious disease policies, with a focus on dynamically representing risk perception, intervention adoption, and policies to target them.
 
 
 ## April 29
