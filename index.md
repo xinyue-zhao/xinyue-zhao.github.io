@@ -9,7 +9,7 @@ published: true
 ---
 
 ## Contact Information
-Office: 243 Ayres Hall
+Office: 315 Ayres Hall
 
 Email: xzhao45 (at) utk.edu
 
